@@ -38,5 +38,8 @@ The Task Management System was developed using HTML, PHP/MySQLi, CSS, JavaScript
 - **Email**: admin@admin.com
 - **Password**: admin123
 
+## Repository Link
+For more details and source code, visit the [GitHub Repository](https://github.com/vishnuthumpudi/PedalStart-Task.git).
+
 Enjoy!
 
